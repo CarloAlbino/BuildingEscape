@@ -38,6 +38,8 @@
 *.opensdf
 *.sdf
 *.VC.opendb
+*.VC
+*.VC.db
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -60,6 +62,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore default Starter Content
+Content/StarterContent/
 
 # =========================
 # Operating System Files
